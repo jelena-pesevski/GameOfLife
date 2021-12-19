@@ -1,0 +1,3 @@
+Using build options:  -I "C:\Users\Jelena\source\repos\OposZadaci3.2020\OposZadaci3.2020"
+C:\Users\Jelena\source\repos\OposZadaci3.2020\OposZadaci3.2020\KernelsForGameOfLife.cl : error CL : Failed to get platform id...: 0 (CL_SUCCESS)
+Build failed!

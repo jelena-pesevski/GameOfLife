@@ -1,0 +1,6 @@
+﻿  Preprocessing: KernelsForGameOfLife.cl
+  Using build options:  -I "C:\Users\Jelena\source\repos\OposZadaci3.2020\OposZadaci3.2020"
+C:\Users\Jelena\source\repos\OposZadaci3.2020\OposZadaci3.2020\KernelsForGameOfLife.cl : error CL: Failed to get platform id...: 0 (CL_SUCCESS)
+  Build failed!
+  
+C:\Program Files (x86)\IntelSWTools\system_studio_2020\OpenCL\sdk\BuildCustomizations\IntelOpenCL.targets(49,5): error MSB3721: The command ""C:\Program Files (x86)\IntelSWTools\system_studio_2020\OpenCL\sdk\bin\x86\ioc32.exe" -cmd=build -input="C:\Users\Jelena\source\repos\OposZadaci3.2020\OposZadaci3.2020\KernelsForGameOfLife.cl" -output="Debug\KernelsForGameOfLife.out" -VS -device=CPU  -targetos=current            -bo="           "" exited with code 14.
